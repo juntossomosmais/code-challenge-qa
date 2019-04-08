@@ -41,7 +41,7 @@ Abaixo seguem algumas dicas falando de tecnologia e tals que podem endossar ou n
 - O teste deve ser executado no Google Chrome. Se preferir, pode ser headless, tanto faz;
 - É possível baixar o executável do WebDriver automaticamente por exemplo com a ajuda do [WebDriverManager](https://github.com/bonigarcia/webdrivermanager);
 - Evidências que comprovam o funcionamento;
-- Uma conhecida ferramenta para avaliar endpoints é o [Rest Assured](https://github.com/rest-assured/rest-assured). [PyRestTest](https://github.com/svanoort/pyresttest) é legal também, mas lembrando: fique a vontade para escolher uma que prefira.
+- Uma conhecida ferramenta para avaliar endpoints é o [Rest Assured](https://github.com/rest-assured/rest-assured). [PyRestTest](https://github.com/svanoort/pyresttest) é legal também, mas lembrando: fique a vontade para escolher uma que prefira;
 - Uso de conteinerização (por exemplo via [Docker](https://www.docker.com/)).
 
 # Como entregar
