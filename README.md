@@ -19,8 +19,8 @@ Queremos que você acesse a página da Juntos Somos+, mapeie e automatize os tes
 
 Algumas funcionalidades:
 
-* A landing page possui a função `fale conosco` na parte superior direita. Ao ser carregada é mostrado um formulário para preenchimento e posterior envio da mensagem;
-* Cadastros para os fomentadores (donos de lojas) e executores (profissionais do mercado como por exemplo pedreiros) de obras.
+* A landing page possui a função `entrar` na parte superior direita. Ao ser clicado, é mostrado um formulário para login no loyalty;
+* Cadastros para os fomentadores (donos de lojas) e executores (profissionais do mercado como por exemplo pedreiros) de obras no botão `quero participar` na parte superior direita, com listagem de profissões.
 
 ## 2. Validação de APIs
 
