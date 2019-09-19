@@ -48,6 +48,6 @@ Abaixo seguem algumas dicas falando de tecnologia e tals que podem endossar ou n
 
 Você deve disponibilizar seu código em algum serviço de hospedagem como Bitbucket, GitLab ou GitHub e manter o repositório como privado.
 
-É obrigatório ter um  **README**  com todas as instruções sobre o seu desafio.
+É obrigatório ter um  **README**  com todas as instruções sobre o seu desafio, não esqueça de nos informar a linha de comando para rodar os testes!
 
 Assim que finalizar, nos avise para enviarmos os usuários que devem ter acesso para avaliação.
